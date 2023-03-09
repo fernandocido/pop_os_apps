@@ -17,7 +17,6 @@ LIST_OF_APPS=(
 	inkscape
 	neofetch
 	notepadqq
-	notion
 	obs-studio
 	papirus-icon-theme
 	piper
@@ -27,7 +26,6 @@ LIST_OF_APPS=(
 	telegram-desktop
 	terminus-font
 	tree
-	trello
 	virtualbox
 	visual-studio-code
 	vlc
@@ -48,6 +46,7 @@ LIST_OF_APPS=(
 ##### Variables
 DOWNLOADS_FOLDER="$HOME/Downloads/apps_shell_script"
 
+URL_NOTION="https://github.com/notion-enhancer/notion-repackaged/releases/download/v2.0.18-1/notion-app-enhanced_2.0.18-1_amd64.deb"
 URL_PI="https://download.opensuse.org/repositories/home:/pragmalin/xUbuntu_22.04/amd64/rpi-imager_1.7.4_amd64.deb"
 URL_SAFING="https://updates.safing.io/latest/linux_amd64/packages/portmaster-installer.deb"
 URL_SLACK="https://downloads.slack-edge.com/releases/linux/4.29.149/prod/x64/slack-desktop-4.29.149-amd64.deb"
